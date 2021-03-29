@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I have developed applications across domains, ground up. Been part of companies during their process of MVP, bootstrap, funded, and exit lifecycles. Been a founder, part of founding technology teams, developed multiple MVP's. Experienced working on rails, reactjs and firebase.
+#### I have developed applications across domains, ground up. Been part of companies during their process of MVP, bootstrap, funded, and exit lifecycles. Been a founder, part of founding technology teams, developed multiple MVP's. Experienced working on rails, reactjs and firebase.
 
 - 🔭 I’m currently working on Digbihealth, SolarfarmsNy, Solar Landscape, Topgrading
 - 🌱 I’m currently learning Next.js, design, architecture.
