@@ -6,11 +6,13 @@
 - 🔭 I’m currently working on Digbihealth, SolarfarmsNy, Solar Landscape, Topgrading
 - 🌱 I’m currently learning Next.js, design, architecture.
 - 👯 I’m looking to collaborate on Building new projects.
-- 🤔 I’m looking for help with video content creation
-- 💬 Ask me about Ruby on Rails, Reactjs
+- 💬 Ask me about Ruby on Rails, Reactjs or building cool projects.
 - 📫 How to reach me: Mail me with a proper subject
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Made a reactjs youtube tutorial
 
-🏠 [website]: https://adepu.me
-🏢 [linkedin]: https://www.linkedin.com/in/prashanthadepu/
+🏠 [website][website] **|**
+🏢 [linkedin][linkedin] **|**
+
+[website]: https://adepu.me
+[linkedin]: https://www.linkedin.com/in/prashanthadepu/
