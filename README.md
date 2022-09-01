@@ -16,5 +16,3 @@
 
 [website]: https://adepu.me
 [linkedin]: https://www.linkedin.com/in/prashanthadepu/
-
-[![Prashanth Adepu's github stats](https://github-readme-stats.vercel.app/api?username=prashanth180&show_icons=true&theme=dark)](https://github.com/prashanth180/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth180&show_icons=true&theme=dark&layout=compact)](https://github.com/prashanth180/github-readme-stats)
