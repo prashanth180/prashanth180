@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Building new projects.
 - 💬 Ask me about Ruby on Rails, Reactjs or building cool projects.
 - 📫 How to reach me: Mail me with a proper subject
-- 😄 Pronouns: he/him
 
 🏠 [website][website] **|**
 🏢 [linkedin][linkedin] **|**
